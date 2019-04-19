@@ -1,1 +1,5 @@
 .go
+.docker-sync
+*DS_Store
+tmp
+sync.log

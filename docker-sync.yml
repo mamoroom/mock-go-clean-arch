@@ -1,0 +1,6 @@
+version: '2'
+
+syncs:
+  sync-volume:
+    src: './app/src'
+    sync_strategy: 'unison'
